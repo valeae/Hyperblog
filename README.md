@@ -10,6 +10,11 @@ Curso profesional de git y github
 * Trucos muy locos del profesor 
 * Las personalidades multiples del Jefe
 * Creado por el increible platzi Team
+<<<<<<< HEAD
+=======
+* Ejemplos Windows Linux Mac
+* Para todas las edades
+>>>>>>> readme-mejorado
 
 Y como un amable recordatorio 
 **este README.md es un chiste**
