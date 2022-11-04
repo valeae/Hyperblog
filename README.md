@@ -11,6 +11,7 @@ Curso profesional de git y github
 * Las personalidades multiples del Jefe
 * Creado por el increible platzi Team
 * Ejemplos Windows Linux Mac
+* Para todas las edades
 
 Y como un amable recordatorio 
 **este README.md es un chiste**
