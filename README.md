@@ -9,6 +9,7 @@ Curso profesional de git y github
 * EL verdadero amor por las buenas practicas 
 * Trucos muy locos del profesor 
 * Las personalidades multiples del Jefe
+* Creado por el increible platzi Team
 
 Y como un amable recordatorio 
 **este README.md es un chiste**
