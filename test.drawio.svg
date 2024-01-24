@@ -1,4 +1,4 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="422px" height="382px" viewBox="-0.5 -0.5 422 382" content="&lt;mxfile&gt;&lt;diagram id=&quot;zP_AvATwSavH-zrAPgG6&quot; name=&quot;Page-1&quot;&gt;xVfLjpswFP2aSO2iknnEIctOOp0u2lWkdm3wDaAxmBqTR7++NjYJr0wyTRqCFMzx89x7DjYzb5XtXwQpkh+cApu5iO5n3peZ6y59rP41cDAAXiwNEIuUGsg5Aev0D1gQWbRKKZSdhpJzJtOiC0Y8zyGSHYwIwXfdZhvOurMWJIYBsI4IG6K/UioTgwZzdMK/QRonzcwOsjUZaRpboEwI5bsW5D3PvJXgXJpStl8B07Fr4mL6fT1Te1yYgFxe02FuOmwJqyw3uy55aMgCVdztY85zdXtKZMbUk6OKwwntGkpeicgOYQeVRMRgW/kG0oO3utlFvgDPQIqDaiCAEZluu4EnNn/xsd2JoipYluOM3RHGmKlVPW24oqBFw7ioa/DvSudBcfQQ0VcbwrG+/yS6sR1ATW3GMHXDSDKmFKoDuEtSCeuC1AHaKY90g0rKwsh2k+6B6qWljK2O6/I2hC5IpPBSCv4KrZrQx3Pkv5WXLQgJ+zdjbmsDq1FrUqeR964leQslLbU32C1JWjxElv5QlngqWfpnZVkWJO9QbzQYkug1FrzK6Ser2c96ZXH4wVkoHmpKVEeyLnjoo5FtT8BXiT/Q13vFb+BQ9BHV0FA645KakVZ9ncgLTukZI0TgAR4zBgJFIbiPMY5v78YZeOgMxx2xBr6DNZYPsQYeWiOYyhqOMxXl5rzxeM54QNmarW+WhGdhVV42StdVPdtQFAG4Y7aZ47mzgDvZxu/axl0+bkMJ/m3Xr3837vrqiFfoIuVRldXRu5Sr0OTqe3hV8qZ55/kjp4HRd949stf4cIr03eKrx6TG6x3UPPT/tiP1ePo4qetaX3je818=&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="421px" height="309px" viewBox="-0.5 -0.5 421 309" content="&lt;mxfile&gt;&lt;diagram id=&quot;zP_AvATwSavH-zrAPgG6&quot; name=&quot;Page-1&quot;&gt;xVfbjpswEP2aSO1DJYOBZB+76Xb7UqlSpPbZwATQGkyNyaVfXxsPCbfsZpWUBinA8dieMz7HcRZ0nR+eJSvT7yIGvnBJfFjQLwvXpe5KfxvgaAFv6VsgkVlsIecMbLI/gCBBtM5iqHqBSgiusrIPRqIoIFI9jEkp9v2wreD9WUuWwAjYRIyP0V9ZrFKLrnxyxr9BlqTtzA7Blpy1wQhUKYvFvgPRpwVdSyGUfcoPa+Cmdm1dbL+vF1pPiUko1DUdsO47xmvkhnmpY0sWYs0dXwtR6NtjqnKu3xz9OJ4Qc6hELSMcAgdVTCaAUZ6FzOCdbpjkM4gclDzqAAmcqWzXLzzD9UtOcWeK+gFZTjN2JxgHXGf1uBWaghENF7JpCX7XZh00R0qYubpQkJj7T2aCcQA9tR3Dto0ryblWqCngPs0UbErWFGivPdIvKqtKK9ttdoDYpJZxvj7lRbcsXrJI45WS4gU6LaEX+MR7bV12IBUcXq05tq5Qo2hSp5X3viN5hNKO2lvslkVaziJLbyzL4H/J0rsoy6pkRY96q8GQRS+JFHURf0LNfjaZJeEHZ6l56ClJU8nmgZKPVrYDAV8l/pW53it+C4dyiOhAS+mCSxpGRvXNQr7hlIExQgIUgiljENAUVvcxxmn3bp0RjJ3huBPWCO5gjYdZrHF3H2DXHyJrdNZWcrDHeP6gQtab2GtQpFMaV9XNceYsXHdPaU8t828qwYgyWnZouVTkYV29bbe+Nwfmi0kE4E6Zzw98Zwl3Mp/Xl4z7MN/PUruS7z08NJ8bDw+3rMw82yIdmJmSf7ct6tfzIdnuBud/GvTpLw==&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
         <path d="M 80 40 L 133.63 40" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
@@ -63,25 +63,6 @@
                     </div>
                 </foreignObject>
                 <text x="200" y="184" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
-                    Valor
-                </text>
-            </switch>
-        </g>
-        <path d="M 140 300 L 260 300 L 260 368 Q 230 346.4 200 368 Q 170 389.6 140 368 L 140 312 Z" fill="#b0e3e6" stroke="#0e8088" stroke-miterlimit="10" pointer-events="all"/>
-        <g transform="translate(-0.5 -0.5)">
-            <switch>
-                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 328px; margin-left: 141px;">
-                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
-                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
-                                <font color="#000000">
-                                    Valor
-                                </font>
-                            </div>
-                        </div>
-                    </div>
-                </foreignObject>
-                <text x="200" y="331" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
                     Valor
                 </text>
             </switch>
